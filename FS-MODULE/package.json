@@ -2,18 +2,18 @@
   "name": "fs-module",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/saksham-sharma-art/FS-MODULE#readme",
+  "homepage": " https://github.com/GarvGupta2005/Backend-lab-manual/#readme",
   "bugs": {
-    "url": "https://github.com/saksham-sharma-art/FS-MODULE/issues"
+    "url": " https://github.com/GarvGupta2005/Backend-lab-manual.git/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saksham-sharma-art/FS-MODULE.git"
+    "url": "git+ https://github.com/GarvGupta2005/Backend-lab-manual.git"
   },
   "license": "ISC",
   "author": "",
-  "type": "commonjs",
-  "main": "appendfile.js",
+  "type": "True",
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
